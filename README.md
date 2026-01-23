@@ -27,7 +27,7 @@ Currently an **Analytical Services Analyst** at **FIRJAN SENAI**, managing the l
 
 ## 📊 Academic Background
 - **MSc in Chemical and Biochemical Process Engineering** | UFRJ (Ongoing)
-  - *Project: Multiscale Simulation of Praziquantel Polymorphs via Neural Networks.*
+  - *Project: Multiscale Quantum Simulation of Praziquantel Polymorphs via Neural Networks.*
 - **BSc in Chemistry** | UFRJ (2025)
   - *Thesis: Evaluation of Sulfur Spin-Orbit Coupling via Ab Initio Calculations.*
 
