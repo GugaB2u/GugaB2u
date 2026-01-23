@@ -23,7 +23,7 @@ I am a **Chemist** and **MSc Student in Chemical and Biochemical Process Enginee
 Currently an **Analytical Services Analyst** at **FIRJAN SENAI**, managing the lifecycle of critical chemical and biochemical assets, including:
 - Reactors & Bioreactors.
 - Purification Systems & Incubators.
-- Process Safety (APR/HAZOP) and Contract Management.
+- Process Safety (HAZOP) and Contract Management.
 
 ##  Academic Background
 - **MSc in Chemical and Biochemical Process Engineering** | UFRJ (Ongoing)
