@@ -4,7 +4,7 @@ I am a **Chemist** and **MSc Student in Chemical and Biochemical Process Enginee
 
 ## ⚛️ Computational & Theoretical Expertise
 - **Quantum Chemistry:** Advanced experience with **GAMESS** and **ORCA** focusing on multiconfigurational methods (**MCSCF**, **SOCI**) and Relativistic Effects (**Douglas-Kroll-Hess**, **SOC**).
-- **Machine Learning for Chemistry:** Currently implementing **MACE** (Neural Network Potentials) within the **ASE** (Atomic Simulation Environment) to investigate crystal stability.
+- **Machine Learning for Chemistry:** Currently implementing **MACE** (A Machine-learning Approach to Chemistry Emulation) within the **ASE** (Atomic Simulation Environment) to investigate crystal stability.
 - **Molecular Dynamics:** Mapping thermodynamic properties and **Gibbs Free Energy** using **LAMMPS** and **OpenMM**.
 - **Solid State:** Density Functional Theory (DFT) calculations using **Quantum Espresso**.
 
