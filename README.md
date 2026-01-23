@@ -1,4 +1,4 @@
-# Hi there, I'm Gustavo Dall'Olio Cardoso 👋
+# Hi there, I'm Gustavo Dall'Olio Cardoso 
 
 I am a **Chemist** and **MSc Student in Chemical and Biochemical Process Engineering** at UFRJ. I work at the intersection of **High-Level Computational Chemistry**, **Operational Engineering**, and **Digital Transformation**.
 
@@ -8,7 +8,7 @@ I am a **Chemist** and **MSc Student in Chemical and Biochemical Process Enginee
 - **Molecular Dynamics:** Mapping thermodynamic properties and **Gibbs Free Energy** using **LAMMPS** and **OpenMM**.
 - **Solid State:** Density Functional Theory (DFT) calculations using **Quantum Espresso**.
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -19,13 +19,13 @@ I am a **Chemist** and **MSc Student in Chemical and Biochemical Process Enginee
 - **Industrial Automation:** Power Automate & Power BI for asset management and KPIs.
 - **Process Simulation:** Aspen HYSYS.
 
-## ⚙️ Engineering & Operations
+##  Engineering & Operations
 Currently an **Analytical Services Analyst** at **FIRJAN SENAI**, managing the lifecycle of critical chemical and biochemical assets, including:
 - Reactors & Bioreactors.
 - Purification Systems & Incubators.
 - Process Safety (APR/HAZOP) and Contract Management.
 
-## 📊 Academic Background
+##  Academic Background
 - **MSc in Chemical and Biochemical Process Engineering** | UFRJ (Ongoing)
   - *Project: Multiscale Quantum Simulation of Praziquantel Polymorphs via Neural Networks.*
 - **BSc in Chemistry** | UFRJ (2025)
