@@ -14,6 +14,7 @@ I am a **Chemist** and **MSc Student in Chemical and Biochemical Process Enginee
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![GAMESS](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIlFDL14hf1Y7KGPXJ0NS0S8xCyR2xQYBZ5w&s)
 
 - **Libraries:** NumPy, Matplotlib, Spglib, Pymatgen.
 - **Industrial Automation:** Power Automate & Power BI for asset management and KPIs.
