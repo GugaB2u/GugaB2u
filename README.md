@@ -14,9 +14,12 @@ I am a **Chemist** and **MSc Student in Chemical and Biochemical Process Enginee
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![GAMESS](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIlFDL14hf1Y7KGPXJ0NS0S8xCyR2xQYBZ5w&s)
+![GAMESS](https://img.shields.io/badge/GAMESS-005C84?style=for-the-badge)
+![ORCA](https://img.shields.io/badge/ORCA-00457C?style=for-the-badge)
+![ASE](https://img.shields.io/badge/ASE-4B5563?style=for-the-badge&logo=python&logoColor=white)
 
-- **Libraries:** NumPy, Matplotlib, Spglib, Pymatgen.
+
+- **Libraries:** NumPy, Matplotlib, Spglib, Pymatgen, GAMESS, ORCA, ASE.
 - **Industrial Automation:** Power Automate & Power BI for asset management and KPIs.
 - **Process Simulation:** Aspen HYSYS.
 
